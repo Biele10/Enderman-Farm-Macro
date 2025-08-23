@@ -1,4 +1,7 @@
 # Enderman-Farm-Macro
+
+# IF YOU JUST WANT THE MACRO, DOWNLOAD THE .EXE FILE, IF YOU WISH TO SEE THE CODE I HAVE ALSO ATTACHED THE PYTHON FILE
+
 i created this macro using python. all information is inside the readme file which you will need in order to use the macro properly.
 
 
