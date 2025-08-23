@@ -6,6 +6,8 @@ IF YOU JUST WANT THE MACRO, DOWNLOAD THE .EXE FILE, IF YOU WISH TO SEE THE CODE 
 
 thank you for using this macro, i have no way of proving that it is safe so.. just trust me 😅.
 
+any coders feel free to take my python code and tweak it for yourselves :)
+
 ########################### TO TURN OFF THE MACRO, PRESS THE ESC BUTTON AND SWING YOUR MOUSE TO ANY CORNER OF THE SCREEN, THIS WILL CLOSE THE PROGRAM ###########################
 
 1. before turning on the macro, ensure you have placed blocks behind you and to your sides by the enderman farm (so that you don't fall off)
