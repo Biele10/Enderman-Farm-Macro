@@ -1,5 +1,7 @@
 # Enderman-Farm-Macro
 
+youtube link to explain how to use macro: https://www.youtube.com/watch?v=_FjvJFk1u5o
+
 i created this macro using python. all information is inside the readme file which you will need in order to use the macro properly.
 
 IF YOU JUST WANT THE MACRO, DOWNLOAD THE .EXE FILE, IF YOU WISH TO SEE THE CODE I HAVE ALSO ATTACHED THE PYTHON FILE
