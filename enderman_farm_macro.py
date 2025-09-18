@@ -8,7 +8,7 @@ a=10        # basic variables to keep the loop going
 b=0
 food_count=0     # counter used to track when player needs to eat
 
-time.sleep(4)
+time.sleep(10)     # gives you 10 seconds to switch back to minecraft and set your position up
 
 while a > b:                    # this section of code is what moves the player from left to right by the enderman farm
     pyautogui.click()           # this ensures that the player hits all the enderman that have spawned
@@ -32,3 +32,4 @@ while a > b:                    # this section of code is what moves the player 
         food_count = 0       # player will only eat again once c reaches 50 again
     else:
         print(":)")
+
